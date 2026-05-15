@@ -9,3 +9,12 @@ En la clase estamos viendo KiCad
 + Como las resistencias tienen una R, los chips tienen una U
 + Los temporary, pulsador, push button o timbre activa un circuito eléctrico cuando es físicamente presionado, usando un resorte interno a su posición original abierto o cerrado inmediatamente al soltarlo.
 + Las huellas de los push buttons que usamos en la protoboard tiene 4 huellas en KiCad pero mecánicamente solo tiene 2 lugares.
++ Los siímbolos de los interruptores o push buttons no reflejan su versión física, unicamente como funciona.
+
+  ### 2do semestre
+
+  + Mayo 19 y 22 **Solemnes**
+    
+  + Mayo 26, 29 y Junio 02 **Trabajo en clases**
+ 
+  + Junio 05 **Entraga proyecto 02**
