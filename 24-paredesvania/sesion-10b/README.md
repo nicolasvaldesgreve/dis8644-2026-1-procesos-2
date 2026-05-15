@@ -10,9 +10,11 @@ luego en el panel de arriba nos vamos a view/panels/library tree
 
 ![pantallazo](./imagenes/panels.png)
 
-Cone las bibliotecas activadas nos vamos a file/new library para crear nuestra carpeta que deberá aparecer una vez guardada en la lista de libraries, así que voy al componente que quiero personalizar, lo copio y lo pego en el nombre de mi carpeta, lo edito y guardo.
+Con las bibliotecas activadas nos vamos a file/new library para crear nuestra carpeta que deberá aparecer una vez guardada en la lista de libraries, así que voy al componente que quiero personalizar, lo copio y lo pego en el nombre de mi carpeta, lo edito y guardo.
 
 ![pantallazo](./imagenes/micarpeta.png)
+
+[`Las imágenes nos confunden de la realidad, ¿quién soy yo?, limitan nuestra imaginación.`]
 
 ### Botones:
 **temporales**
@@ -28,4 +30,9 @@ Cone las bibliotecas activadas nos vamos a file/new library para crear nuestra c
 
 > Para encontrar el interruptor, buscamos SW_SPST o ST_SPDT y le ponemos la huella Button_switch de 6mm
 
-[`Las imágenes nos confunden de la realidad, ¿quién soy yo?, limitan nuestra imaginación.`]
+### Etiquetas
+Conectar sin cableado en el esquemático
+
+* Para activarlo ocupamos la "L" de Label.
+
+La podemos usar para evitar el error de pin no conectado a la salida, debemos conectar desde la bateria y al output la etiqueta "PWG_FLAG".
