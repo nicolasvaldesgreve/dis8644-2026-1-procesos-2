@@ -38,7 +38,7 @@ En este minuto de mi vida estoy experimentando muchas cosas y esta es una de ell
 
 Volví a instalar kicad ya que tenía muchos archivos deambulando entre la versión anterior y la nueva.
 
-![kicad_1](imagenes/kicad_1.png)
+![kicad 1](imagenes/kicad_1.png)
 
 Esta es la interfaz que nos presenta kicad cuando queremos iniciar un proyecto. 
 1. El esquemático/símbolos es el *formato _sch*
@@ -58,13 +58,13 @@ Comenzaremos a colocar valores a nuestros símbolos con el comando “V”
 
 En mi caso estaré realizando el clock (555) entonces mi primer paso será recolectar todos los símbolos necesarios para componerlo. Como quiero copiar uno ya realizado, quiero pegar una foto en el software, pero con la tecla eliminar no funciona para poder sacarlo después entonces apretando click derecho>eliminar
 
-![kicad_3](imagenes/kicad_3.png)
+![kicad 3](imagenes/kicad_3.png)
 
 esc > para eliminar si hiciste una conexión indeseada
 
 Me aparecieron estos puntos naranjas 
 
-![kicad_4](imagenes/kicad_4.png)
+![kicad 4](imagenes/kicad_4.png)
 
 Debes acercar los símbolos que quieras conectar porque si no, estás haciendo cables sin ningún fin y no puedes arrastrarlos.
 
@@ -72,11 +72,11 @@ Yo sistematice que todo gnd y vcc estén en la misma altura para tener un límit
 
 Después escogí el secuenciador, los cuales tienen marcado los step y eso se llama Etiqueta de red (Net Label) la cual se realiza con el comando CTRL + L
 
-![kicad_9](imagenes/kicad_9.png)
+![kicad 9](imagenes/kicad_9.png)
 
 Ahora, apareció algo que no sé qué significa ya que fue automático: en 14 aparecio un triangulo y en 13 un círculo
 
-![kicad_8](imagenes/kicad_8.png)
+![kicad 8](imagenes/kicad_8.png)
 
 Teniendo el esquemático listo, empezaremos a realizar las huellas, en nuestro caso vamos a utilizar de la familia THT ya que son las que ocupamos. 
 
