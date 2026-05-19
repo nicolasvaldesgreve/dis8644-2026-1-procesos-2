@@ -1,5 +1,9 @@
 # sesion-09b
 
+## KiCad pt3: El regreso ##
+
+Se inicio con una revisión de dudas generales, donde el tópico fue 
+
 ### Investigación Secunciador ###
 
 ---
