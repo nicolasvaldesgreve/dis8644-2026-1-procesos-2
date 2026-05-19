@@ -21,7 +21,7 @@ They wanted to share their work with many people and cultures, that's one of the
 #### Simon
 Scanner, it is used to measure the world, it has a laser and a mirror that moves vertically and horizontally, which makes the laser move around the space, and when it crashes with something it goes back. This model has 8.000.000 points, each of these points means each time the laser "crash" with something, the time the laser takes to return is how it measures.
 
-It creates "clouds", he wasn't interested in measures but in clouds and trees. For us the trees are too small, for the trees the mountain is too fast and for the mountain the tree is too fast. It's about measures and scales.
+It creates "clouds", he wasn't interested in measures but in clouds and trees. For us the trees are too slow, for the trees the we are  too fast and for the mountain the tree is too fast. It's about measures and scales.
 
 #### App!!!!
 * Polycam / kirk
