@@ -138,6 +138,8 @@ Aquí hay que tener cuidado con no confundir los condensadores polarizados (u) y
 
 Terminando de designar huellas a símbolos, debemos pasar a PCB NEW
 
+Una de las mayores dificultades que hay es que son muchos pasos por hacer y si en uno de estos te equivocas, puede “joderse” el proyecto, entonces eso me cuesta un poco. El aprendizaje que me llevo hasta este punto es que hay que fijarse mucho en cada cosa que hagas. 
+
 *Por salud mental y bueno, porque me confundí en algunas cosas, el viernes quedé hasta aquí, pero quiero seguir trabajando después de clases.*
 
 -----
