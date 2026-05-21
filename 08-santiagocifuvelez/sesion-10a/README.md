@@ -19,3 +19,12 @@ Ya con estos pasos en cuenta, continuemos con la clase:
 3.	Como buscar componentes (los que más solemos usar)
 4.	La pcb (nuestra placa real)
 5.	Encargo para la siguiente clase.
+
+## 1.	Como abrir archivos de trabajo. 
+Cuando un archivo ya está creado y guardado, se abre desde la extensión:   
+`.Kicad_pro`, ya que es todo el proyecto:
+
+## 2.	Atajos de teclado.
+## 3.	Como buscar componentes (los que más solemos usar)
+## 4.	La pcb (nuestra placa real)
+## 5.	Encargo para la siguiente clase.
