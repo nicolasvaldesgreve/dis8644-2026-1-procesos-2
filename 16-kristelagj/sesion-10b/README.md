@@ -31,6 +31,8 @@ Pitch → distancia entre las patas.
 - 
 ✱ Si hago cambios en huellas, debo sí o sí actualizar porque me aparece.
 
+En esta clase tambien decidimos que parte del sintetizador seriamos y nuestro grupo de igual manera!
+Somos el oscilador 2!
 
 
 ### imagenes de proceso

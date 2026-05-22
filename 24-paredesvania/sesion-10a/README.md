@@ -100,11 +100,31 @@ cada estudiante debe tomar 2 de las 4 secciones distintas del sintetizador reali
 
 anotar cada paso en la bitácora, incluyendo mayores aprendizajes y dificultades encontradas, además de problemas y dudas que quieran que abordemos en la próxima clase.
 
+### Paso 01: Abrir nuestro esquemático desde el kicad.pro
+![mi placa](./imagenes/paso1.png)
+### Paso 02: Yo hice el esquemático del proyecto 1 en kicad así que ya lo tenía armado completo
+![mi placa](./imagenes/paso2.png)
+### Paso 03: había que asignar huellas a los componentes
+![mi placa](./imagenes/paso3.png)
+### Paso 04: Copie y pegue las huellas que usamos en la placa que hicismoe  clase y las que no estaban las busque en internet
+![mi placa](./imagenes/paso4.png)
+### Paso 05: Me meti al archivo.pcb y cargue los componentes, 0 errores, slay
+![mi placa](./imagenes/paso5.png)
+### Paso 06: Mis componentes ahí en el aire, les hice un contorno y comencé a ordenarlos
+![mi placa](./imagenes/paso6.png)
+### Paso 07: Ya irdenados y en vista 3D, me complica aún saber bien en dodne me conviene más poner cada uno, será un talento adquirido.
+![mi placa](./imagenes/paso7.png)
+### Paso 08: Ahora habia que poner los canales
+![mi placa](./imagenes/paso8.png)
+### Paso 09: todo listo, complicaciones en los canales, habia una isla, no super arreglarlo, pero pretty.
+![mi placa](./imagenes/paso9.png)
+### Paso 10: Es rosada y tiene los modelos 3D, slay
+![mi placa](./imagenes/paso10.png)
+
 ### lectura de libro de Flusser, capítulo 1
 
 leer introducción y capítulo 1 del libro Hacia una filosofía de la fotografía, de Vilém Flusser, disponible en <https://monoskop.org/images/8/8d/Flusser_Vilem_Hacia_una_filosofia_de_la_fotografia.pdf>
 
 compartir apuntes y reflexiones críticas sobre el texto, prohibido usar inteligencia artificial, no sirve para este ejercicio.
-
 
 
