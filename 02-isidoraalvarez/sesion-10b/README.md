@@ -14,8 +14,12 @@ Clase 22 de mayo
 | 6 | Se conecta el CD 555 y CD4040 y el 4040 falla, no prende las led |
 | 7 | Logramos que el circuito funcionara el CD4040 oscila correctamente |
 | 8 | Prueba del CD4040 integrarles mas leds |
-| 9 |  |
-|10 |  |
+| 9 | Se hizo una prueba con 7 leds, pero el ultimo led no prendia-Hipotesis: Led quemado-Mala conexion de algun cable/ En definitiva estaba quemado el led, se arreglo el problema cambiando el led obviamente |
+| 10| Haremos un mix CD386 para probar como suena con el CD4040/ no funciono/Se evalua posibles fallas.
+-Habia un cable que no estaba conectado a nada 
+-Se cambio 3 veces de chip y ninguno funciionaba( no sabemos si eran los chips o era por otra cosa)
+-Se evalua la posibilidad  de que el parlante este bueno|
+| 11|  |
 
 ## **ENCARGO**
 
