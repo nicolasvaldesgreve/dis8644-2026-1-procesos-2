@@ -13,3 +13,7 @@ Registramos por partes los textos y fotos mientras se iba avanzando
 los leds eran los que nos mostraban si es que estaba funcionando nuestro secuenciador
 
 y nos dividimos tareas para traer el proximo martes un avance para la segunda version del proyecto
+
+Lo electrico tiene que ver con como son las cosas que funcionen en lo minimo
+
+Si la informacion esta siendo procesada es electrónico
