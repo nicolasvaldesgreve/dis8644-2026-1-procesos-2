@@ -128,4 +128,22 @@ Ahora, vamos a abrir unos huequitos para poder integrar nuestra PCB a la superfi
 **Y ya está.**  
 ![img20](./imagenes/img20.png)
 
-Byee.
+Para este corte del semestre vamos a leer un libro llamado; “Hacia una filosofía de la fotografía”, y para esta bitácora, leeremos el primer capítulo del libro, el cual se llama:
+
+1.	La imagen.  
+Antes de entrar en materia con el capítulo como tal, vamos a hablar primeramente de la presentación del libro y la introducción; El autor hace este libro como objeto de reflexión sobre la tecnología y su permeancia en la sociedad en la actualidad, pues la tecnología se ha encargado de crear una realidad no real, donde todo se disfraza, y se alinea a lo que nos gusta, por eso el autor hace mención sobre la coerción de libertad (generada por la determinación que la tecnología nos impone), en realidad…¿Lo que nos gusta, nos gusta?, o ¿Es lo que le gusta al algoritmo que nos guste?
+
+A esto el autor hace una división en la línea del tiempo hasta la actualidad, en la cual menciona que las historias de la sociedad se han experimentado dos momentos fundamentales desde su comienzo; “La invención de la escritura lineal” (alrededor de la última mitad del segundo milenio a. de C. El segundo (del cual somos testigos) “La invención de las imágenes técnicas”. Lo anteriormente mencionado, lo debemos tener en cuenta para el resto de la lectura.
+
+También un warning súper fundamental, es que este libro es un ensayo hipotético. Ahora sí, con lo anteriormente mencionado, comencemos en materia con el capítulo 1.
+
+El capítulo 1, titulado “La imagen”, hace una serie de comparaciones; Imagen técnica (obtenida de las cámaras) e imagen imaginaria (nuestra imagen mental); Textos lineales (o textos escritos) e imágenes; La mediación entre la escritura y el hombre; La mediación entre la imagen y el hombre…, entre otras.
+
+Como menciona el autor, las imágenes son el significado de algo “exterior”, y tienen como propósito hacer ese algo exterior en algo “imaginable” para otrxs (eso en cuanto a la imagen técnica). Pero también está la imagen mental que realizamos con nuestros ojos y re-proyectamos en nuestra mente, eso dándole paso al “imaginario”. Y aquí es donde el autor interrumpe y hace su reflexión, pues las imágenes son susceptibles a la interpretación propia del ser humano, son un conjunto de símbolos connotativos. Esto a su vez se complementa con que, gracias a este ejercicio de remembranza, y decodificación, todas las relaciones que hacemos en este momento entre objetos, espacio-tiempo, todo tiene una relación, y a cambio de esas relaciones obtenemos un significado. Y Aquí el autor hace un llamado, pues “es un error descifrar las imágenes como si fueran eventos congelados”. Por el contrario, las imágenes son traducciones de hechos a situaciones; éstas sustituyen con escenas los hechos”.
+
+También, el autor menciona que las imágenes tienen la finalidad de hacer que el mundo sea más entendible y/o accesible e imaginable a través de las imágenes, pero allí existe un problema que lo contradice, pues el hombre viviría en función de las imágenes y de sus perspectivas de lo que se creería que es la realidad por las imágenes (que pretenden ser la realidad, pero no lo es). O sea, ya no se descifra ni se descubre más el mundo tangible/real, y esto lleva a que se proyecte al mundo exterior sin haberlo conocido, o como dice el autor “sin descifrarlo”.
+
+Hay muchísima reflexión alrededor de este capítulo, Dios mío, pero para no hacerlo más largo, vamos a pasar a una de las contradicciones de las cuales el autor hizo mucho énfasis, y fue la lucha entre “texto lineal” e “imagen”, pero al final…, se terminan complementando la una la otra. 
+
+Reverse colonization. 
+
