@@ -29,6 +29,49 @@ Cabe aclarar que esta clase fue de responder dudas concretas, por lo que mayorme
 
 ---
 
+## Comprobación DRC
+
+La herramienta DRC se encuentra en el ícono con forma de checklist ubicado en la parte superior derecha. 
+Es recomendable ejecutarla antes de enviar la placa a fabricación, porque  detecta errores de conexión y del diseño de la placa.
+
+## Agregar agujeros de montaje en la placa
+
+Dentro del esquemático de KiCad se debe añadir el componente *MountingHole*. Una vez agregado, se posiciona en la PCB con normalidad
+
+
+## Plano de cobre para el GND
+
+En lugar de unir el ground mediante pistas individuales, se configura toda la superficie de la placa como un plano de cobre conectado a GND en ambas caras. 
+Después, para rellenar el plano, se utiliza la *tecla B*
+
+
+## Importación de gráficos (DXF / SVG / Dibujitos)
+
+Para importar gráficos se debe ir a Archivo → Importar → Gráficos
+
+*Es importante colocarlos en una capa de serigrafía (Silkscreen) y no en una capa de cobre*
+
+---
+
+| Tecla / Atajo | Función |
+|---|---|
+| `A` | Agregar símbolo |
+| `ESC` | Herramienta de selección |
+| `M` | Mover componentes |
+| `G` | Mover junto con todo el entramado |
+| `V` | Asignar valor |
+| `CTRL + S`| Guardar |
+| `E` | Editar |
+| `F` | Asignar footprint |
+| `CTRL + D` | Duplicar |
+| `R` | Rotar |
+| `X` | Reflejar en eje X |
+| `Y` | Reflejar en eje Y |
+| `ALT + 3` | Abrir visor 3D |
+| `F8` | Actualizar espaciado / rellenar plano |
+
+---
+
 Encargo: Investigar sobre 2 circuitos de percusión hechos con chips.
 
 <https://www.incb.com.mx/index.php/articulos/9-articulos-tecnicos-y-proyectos/9910-generadores-de-percusion-art858s>
