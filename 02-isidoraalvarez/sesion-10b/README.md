@@ -18,6 +18,12 @@ Clase 22 de mayo
 | 10| Haremos un mix CD386 para probar como suena con el CD4040/ no funciono/Se evalua posibles fallas. -Habia un cable que no estaba conectado a nada  -Se cambio 3 veces de chip y ninguno funciionaba( no sabemos si eran los chips o era por otra cosa) -Se evalua la posibilidad  de que el parlante este bueno|
 | 11| Desarmamos el CD4040 y el CD386 para hacerlo denuevo y ver que esta fallando |
 
+![proceso](./imagenes/proceso-clase-05.jpeg)
+
+https://proveedoracano.com/blog/transistor-2n2222_012/
+
+http://hyperphysics.phy-astr.gsu.edu/hbasees/Solids/trans.html
+
 ## **Finalizacion de la clase**
 
 - Carpeta: Proyecto 02- empezar a escribir nuestro proceso en la carpeta
@@ -64,10 +70,30 @@ Tomas: Buscar informacion sobre transistores y 2 opcion de chip
 
 ## **ENCARGO**
 
-Investigar que es una ???
+Investigar que es una fenomenologia:
+
+SEGUN LA RAE:
+
+f. Fil. Teoría de los fenómenos o de lo que aparece.
+
+f. Fil. En Friedrich Hegel, filósofo alemán de comienzos del siglo XIX, dialéctica interna del espíritu que desde el conocimiento sensible a través de las distintas formas de consciencia llega hasta el saber absoluto.
+
+f. Fil. Método desarrollado por Edmund Husserl que, partiendo de la descripción de las entidades y cosas presentes a la intuición intelectual, logra captar la esencia pura de dichas entidades, trascendente a la misma consciencia.
+
+https://dle.rae.es/fenomenolog%C3%ADa
+
+Lo que yo entiendo es que:
+
+Es el estudio de las cosas, como las vivimos o las experimentamos, una manera de entenderlo e como la lluvia es agua cayendo por la condensacion, te daria la temperatura exacta y cuantos milímetros cayeron, son datos objetivos. Es lo que tu sientes cuando te mojas, es la sensacion de frio en la piel, el olor a tierra mojada que te pone nostalgico o el sonido ritmico contra el paraguas.
+
+En resumen, la fenomenologia no busca la ciencia exacta de la lluvia, busca describir como es para ti vivir la experiencia de estar bajo ella, busca poner la vivencia personal como foco.
 
 ## **TEXTO: HACIA UNA FILOSOFIA DE LA FILOSOFIA**
 
-Cap.6 La distribución de la fotografía:
+Cap.6 La distribucion de la fotografia: 
 
-Cap.7 La recepción de la fotografía:
+Lo que entendi en este capitulo es que el fotografo pierde el poder de decidir o de tener su propia voz frente a los medios, por que a final la prensa o los canales de publicidad deciden que significado tendrsa este. Para que ellos te tomen en consideracion y eligan tu trabajo, tienes que seguir sus reglas, así que terminas trabajando para el sistema. Y al final, somos como una camara que tenemos que aceptar la información ya programada sin pensar demasiado por nuestra cuenta.
+
+Cap.7 La recepcion de la fotografia: 
+
+Este capítulo basicamente describe como personas que viven en modo piloto automatico, ya ni nos detenemos a pensar qué es lo que hay detras de una foto, ver su verdadera intencion que era lo que e artista queria trasmitir, solo la consumimos rapido, como si fuera la realidad y no algo armado por una maquina. Me hizo sentir que estamos perdiendo nuestra libertad de opinion porque nos acostumbramos a que las imágenes nos digan que pensar y como actuar, nos olvidamos de mirar el mundo con nuestros propios ojos y usar el sentido crítico.
