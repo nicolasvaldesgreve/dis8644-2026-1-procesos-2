@@ -59,8 +59,8 @@ El tema principal era la **medición**. El proyecto se pregunta qué pasa cuando
 
 Me llamó la atención que no se trataba solo de medir por medir, sino de pensar qué significa medir. A veces confiamos mucho en los sistemas exactos, como las grillas, los escáneres o los números, pero cuando se miran con más atención aparecen errores, diferencias y cosas que no calzan tan perfectamente.
 
-![Charla 1](./imagenes/charla1.jpeg)
-![Charla 2](./imagenes/charla2.jpeg)
+![Charla 1](./imagenes/charla11.png)
+![Charla 2](./imagenes/charla22.png)
 
 ---
 
