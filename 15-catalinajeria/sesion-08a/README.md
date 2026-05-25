@@ -11,5 +11,5 @@
 <p align="center">
   <img src="./imagenes/gif01.gif" width="180">
 </p>
----
-## ✨ Resumen de la clase
+
+✨ Resumen de la clase
