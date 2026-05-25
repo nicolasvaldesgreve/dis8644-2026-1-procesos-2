@@ -160,7 +160,11 @@ esquemáticos y PCB en KiCad
 
 cada estudiante debe tomar 2 de las 4 secciones distintas del sintetizador realizado en el proyecto 1, y crear un proyecto en KiCad por cada una, que contenga tanto el esquemático y la PCB de cada sección.
 
-꩜ No tomé capturas de todos los procesos porque se me olvidó, ya que estaba concentrada entre hacer la placa y volver a ver la clase de KiCad ꩜
+anotar cada paso en la bitácora, incluyendo mayores aprendizajes y dificultades encontradas, además de problemas y dudas que quieran que abordemos en la próxima clase.
+
+- No tomé capturas de todos los procesos del n.1 porque se me olvidó, ya que estaba concentrada entre hacer la placa y volver a ver la clase de KiCad.
+
+### Esquemático y PCB 1 
 
 1.  Crear esquemático (555)
 
@@ -194,3 +198,41 @@ Aquí revisé la parte de DRC y me aparecieron esos avisos. Por lo que entendí,
 ![foto](./imagenes/siete.png)  
 
 También me pasó que no había dejado espacio para los agujeros, así que tuve que mover un poco los componentes. No estoy segura de si todo está bien colocado y aún me falta aprender más cómo ubicar los componentes de manera estratégica.
+
+### Esquemático y PCB 2
+
+1.  Crear esquemático (Mix)
+
+![foto](./imagenes/unoo.png)  
+
+2. Asociar huellas
+
+![foto](./imagenes/doss.png)
+
+3. Abrir PCB Editor 
+
+![foto](./imagenes/tress.png)
+
+4. Definir pistas
+
+![foto](./imagenes/pistas.png)
+
+5. Distribuir componentes
+
+![foto](./imagenes/cuatroo.png)
+
+6. Rutear conexiones
+
+![foto](./imagenes/cincoo.png)
+
+GND 
+
+![foto](./imagenes/seiss.png) 
+ 
+7. Preparar fabricación
+
+![foto](./imagenes/sietee.png)  
+
+Acá quería intentar que todos los componentes se vieran en 3D, no entendí por qué no se ponen todos automáticamente. Intenté colocarlos, pero me salían cosas nada que ver, no sé si eran los correctos y, según yo, no, porque no se veían como los componentes que buscabaAAAAAaaaaaaaaa(,,•᷄‎ࡇ•᷅ ,,)? tampoco investigué mucho más a fondo ¯\_(ツ)_/¯
+
+![foto](./imagenes/idk.png)  
