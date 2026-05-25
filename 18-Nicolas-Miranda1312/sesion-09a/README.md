@@ -90,7 +90,7 @@ El diseño está inspirado en el club de mis amores, **:contentReference[oaicite
 
 ![i](./imagenes/i.png)
 
-![j](./imagenes/j.png)
+![J](./imagenes/J.png)
 
 #### Lectura de libro de Flusser, capítulo 1
 
