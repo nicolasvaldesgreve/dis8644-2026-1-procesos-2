@@ -35,11 +35,8 @@ Para el proyecto de filtros, estuve dándole vueltas a qué chip usar y sigo con
 
 ### Referencias
 
-- [Jim Hobbs — artista visual](https://www.jimhobbs.net)
-- [project78gallery — Patrick](https://www.project78gallery.com)
 - [Polycam — app de escaneo 3D](https://poly.cam)
-- [Qué es una nube de puntos (point cloud)](https://www.faro.com/es-ES/Resource-Library/Article/what-is-a-point-cloud)
 - [TL072 — datasheet y aplicaciones](https://www.ti.com/lit/ds/symlink/tl072.pdf)
 - [LM358 — características y usos](https://wraycastle.com/es/blogs/knowledge-base/lm358-pinout)
 - [LM324 — amplificador operacional cuádruple](https://www.ti.com/lit/ds/symlink/lm324.pdf)
-- [VCO — oscilador controlado por voltaje](https://www.electronics-tutorials.ws/oscillator/voltage-controlled-oscillator.html)
+
