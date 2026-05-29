@@ -9,9 +9,34 @@ Entender en qué soy mediocre, en qué soy mediocre y me gusta, en qué soy buen
 <https://en.wikipedia.org/wiki/Phone_connector_(audio)>
 
 ![plug](./imagenes/plug.png)
-![plug](./imagenes/make.jpeg)
-![plug](./imagenes/nico.jpeg)
 
+Conector TS, hay varios tamaños, pero todos de la familia TS.
+
+Se ocupan para los que haremos nosotros, en guitarras, máquinas para tatuar... Usualmente se ocupa el "S" para GND, la tierra es la señal mas grande de conexión.
+
+La punta es la señal que quiero enviar. La patita 2 se usa para saber si hay algo conectado.
+
+- Bracito como GND (pin1)
+- Bracito 1 Señal (pin 3)
+- Bracito 2 Switch (pin 2)
+
+![jack](./imagenes/audio_jack.jpg)
+
+Barrel switch:
+- 1 conectado a la señal.
+- 2 conectado a gnd
+  
+![jack](./imagenes/barrel_jack.jpeg)
+
+Como segundo ciercuito quisimos recrear este circuito que encontrampos en el libro "Make: Electronic music from scratch" que se llama "INHARMONIC_SQUARE_WAVES"
+![circuito](./imagenes/make.jpeg)
+
+Nico hizo el esquemátco del circuito en Kicad.
+![nico](./imagenes/nico.jpeg)
+
+Y Carla hizo el circuito en Falstad
+![carla](./imagenes/carla.jpeg)
+  
 ---
 ### Capítulo 5
 
