@@ -42,7 +42,11 @@ Para poder tener algo en lo que podamos basarnos, Misa nos entregó esquemático
 + La información tiende a desintegrarse progresivamente de acuerdo con el segundo principio de la termodinámica, pero el ser humano se distingue de esto ya que adquiere, almacena y transmite información al mismo tiempo que la produce de manera intencional; a esto se le llama "espíritu", que es lo que produce "cultura" (objetos informados).
 + El proceso de manipulación de información (comunicación) tiene dos fases: el _diálogo_, que es en donde se produce la información y el _discurso_ que es como se distribuye la información.
 
+Es decir que como el humano transmite información y eso es lo genera cultura, actualmente en el mundo de las redes sociales se está dejando de lado el verdadero propósito de la comunicación, ya que como todos sabemos dentro de estas aplicaciones, en efecto, se nos muestra una cantidad absurda de información por minuto pero no del tipo que nos hace pensar ni generar cultura, sino que son mayoritariamente contenido basura que de igual manera se nos hace atractivo y nos mantiene haciendo doomscrolling (o tal vez hablo por mí mismo XD)
+
 #### Métodos de discurso:
+
+Por lo que dice, asumo que nos quiere decir que dependiendo de la manera en la que se da el discurso puede variar como entendemos o como reaccionamos al mensaje
 
 1. Situación cultural de "responsabilidad": El emisor está rodeado de receptores que formar un semicírculo.
 2. Situación de "autoridad": El emisor utiliza transmisores o "auxiliares" como en la comunicación militar de un rango a otro.
