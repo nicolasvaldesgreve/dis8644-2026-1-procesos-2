@@ -42,11 +42,22 @@ Ya definimos que este sistema es un secuenciador, pero algo importante es como e
 
 Esta es una secuencia binaria y de las cosas más notorias es que cada _canal_ tiene la misma duración prendido y apagado, es decir, el Q3 funciona con 4 _señales apagadas_ y 4 _señales prendidas_. Otro punto interesante es como esta duración tambien sigue un patrón
 
-| Canal / Step | Duración  |
-| ------------ | --------- |
-| Q1           | 1 tiempo  |
-| Q2           | 2 tiempos |
-|
+| Canal / Step | Duración   |
+| ------------ | ---------- |
+| Q1           | 1 tiempo   |
+| Q2           | 2 tiempos  |
+| Q3           | 4 tiempos  |
+| Q4           | 8 tiempos  |
+| Q5           | 16 tiempos |
+
+<br>
+
+Ahora que entendemos como funciona su secuencia, vamos a profundizar más en como este circuito logra generar este proceso. Anteriormente se mencionó (y tmabien se ejemplificó en la imagen) que en cada _"tiempo"_ se van _activando_ las señales correspondientes, estos "_tiempos_" son corrientes eléctricas, es decir, que se necesita una señal intermitente y constante para activar el proceso de conteo. Esto es conocido como **reloj** o **clock**, entonces la velocidad con la que alterne este circuito afectará en como nuestro secuenciador realice su conteo.
+
+Para una mayor compresión se utilizará la siguiente analogía: Tenemos una especie de corazón (Reloj) que cada vez que late (emitir un pulso eléctrico) un semáforo prende sus luces (se activan las salidas del secuenciador)
+
+
+
 ### Esquemático 
 
 ```markdown
