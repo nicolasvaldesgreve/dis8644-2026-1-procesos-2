@@ -18,7 +18,7 @@ Menos mal no estamos en pandemia, porque creo que moriría de aburrimiento con t
 
 ---
 
-## Encargo 10A
+## Encargo 
 
   **Esquemáticos y PCB en KiCad**  
  Cada estudiante debe tomar **2 de las 4 secciones distintas** del sintetizador realizado en el Proyecto 1.  
