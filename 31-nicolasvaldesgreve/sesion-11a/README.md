@@ -31,9 +31,19 @@ También nos dieron una lista de huellas estándar!! la pueden encontrar dentro 
 
 En el inicio del capítulo 8 dice "Este cambio constante es precisamente lo que se nos ha hecho habitual: una fotografía redundante remplaza otra fotografía redundante. El cambio mismo es el que se ha hecho habitual y redundante; y es el "progreso" mismo el que se ha vuelto desinformativo y ordinario", ¿esto se refiere a los contenidos que consumimos actualmente en redes sociales? probablemente entendí todo mal, pero por alguna razón mi cerebro al leer esta parte me tiró un mensaje diciendo "jaja como el contenido de reels" lo cual me causó un poco de gracia.
 
+- Imagen implica magia
+- Aparato implica automatización y juego
+- Programa implica necesidad
+- Casualidad e información implica símbolo e improbabilidad
+
+Me gustó como en el último capítulo Flusser hace un resumen con palabras súper sencillas de lo que se habló durante todo el libro, ya que al ser algo más corto y con palabras que si logro comprender se me hace más fácil entender de lo que se estuvo hablando. El cómo justifica la necesidad de una filosofía de la fotografía me hace bastante sentido, cosa que puedo decir que al inicio de la lectura del libro no estaba taaan convencido ya que como mencioné en una bitácora anterior, nunca me detuve a pensar tanto en el concepto de libertad mediante una cámara y la fotografía en si ya que no me asocio mucho con la actividad de fotografiar en si (veo fotos constantemente, si, pero casi nunca soy yo el que está detrás de ese trabajo).
+
 #### Vocabulario
 
 + Democriteano: Hace referencia a los principios establecidos por Demócrito, centrándose en el atomismo materialista.
++ Biunívoca: Que se establece entre los elementos de dos conjuntos cuando, a cada elemento de un conjunto, le corresponde uno y solo uno de los elementos del otro, y viceversa
 
 Fuentes:
-<https://www.filosofia.org/enc/fer/materia2.htm>
+
++ <https://www.filosofia.org/enc/fer/materia2.htm>
++ <https://www.rae.es/diccionario-estudiante/biun%C3%ADvoco>
