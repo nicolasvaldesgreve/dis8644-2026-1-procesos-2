@@ -1,64 +1,12 @@
 # sesion-10a
-12 de mayo (clase online porque o si no quedabamos ahumados bu)
----
-> se hizo mención a Bonvallet, me dio demasiada risa porque ultimamente hago muchas tallas con elocuencias que decía este sujeto y le hago mucho retweet porque era muy relatable a veces. 
-![imagenes](./imagenes/bonvallet.jpeg)
+martes 19 de mayo 
 
-## repasar KiCad 
-+ repasamos los primeros 7 pasos que vimos la clase antes del feriado y receso. KiCad tiene al menos dos softwares principales:
-- **esquemático**: donde se diseña el circuito lógico
-- **editor de placas (PCB)**: donde se diseña el componente físico
+## teloneo/intro 
+en el primer bloque de la clase conversamos acerca de los capitulos 2 y 3 del libro *"hacia una filosofía de la fotografía"*, donde comprendimos tres puntos que menciona Flusser en el libro: maquina, herramienta y aparato. 
 
->  cada componente es un mundo, tienen un montón de propiedades. 
+## for want of (not) measurement 
+durante el teloneo se nos dio la oportunidad de asistir a una charla de artistas británicos, en esto consistió básicamente el primer bloque donde escuchamos a estas personas hablar sobre su trabajo que por lo menos a mí me llamó mucho la atención, disfruté mucho escucharlos hablar sobre sus obras de manera tan técnica y poética a la vez, experimentaban con una tecnología de escáner que es capaz de medir y captar puntos que a simple vista no se ven, les interesa mirar los sistemas que de por sí deberían ser estables pero cuando lo analizan a profundidad se dan cuenta que no son tan estables, no les interesa solo exhibir su obra sino que generar una conexión con esta misma. 
 
-## repaso de atajos de teclado — esquemático
-
-| tecla | acción |
-|-------|--------|
-| `a` | agregar un componente |
-| `r` | rotar |
-| `m` | mover |
-| `g` | grab — mover con todo (mantiene conexiones) |
-| `v` | valor — abre el menú que edita el cambio de valor |
-| `e` | hoja de vida del componente (propiedades) |
-| `ctrl + S` | guardar |
-
-> - **tamaño lámina**: doble click para cambiar
-> - **huella**: espacio físico que ocupa cada componente
-> - **nunca asumir nada**: ctrl + s 
-
-## flujo PCB — editor de Placas
-
-### pasos para diseñar como componente físico:
-
-1. abrir KiCad (siempre abrir **KiCad Pro**)
-2. cambiar al **editor de placas**
-3. click en **"traerme"** para importar el esquemático
-4. presionar **F8** → *actualizar placa desde esquema*
-5. **alt + 3** → visor 3D
-
-## contorno de la placa (Edge.Cuts)
-
-- la placa necesita un lugar físico. ese es nuestro **contorno**
-- para dibujarlo hay que estar en la capa **`Edge.Cuts`**
-- dibujar líneas para formar el contorno
-
-### medidas de ejemplo:
-| uso | tamaño |
-|-----|--------|
-| Contorno básico | 5x9 cm |
-| Tarjeta de presentación | 90x40 mm |
-
-### tips para el contorno:
-- generar **arcos de 5mm de radio** en las esquinas
-- usar la **herramienta arco**, encontrar punto
-- tecla `E` en un rectángulo da opción de **redondear rectángulo** 
-
-## PCB — capas y elementos
-
-- **pista**: por donde viaja la señal eléctrica
-- **via**: es un pequeño agujero metalizado que conecta eléctricamente dos capas distintas de la PCB.
-
-> me perdí
-
-## encargo 09a
+## clase 
+> la pizarra de misa fue una locura
+![imagenes](./imagenes/pizarramisa.jpeg)
