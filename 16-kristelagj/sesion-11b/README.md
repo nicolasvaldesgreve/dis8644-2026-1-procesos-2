@@ -13,7 +13,8 @@ Cuando me hicieron esta pregunta no supe qué responder. Primero pensé que era 
 Es en este punto que llegó a Aristetoles y la philia. No solo considera este vínculo como un tipo de amor, sino que además dedica parte de su creación a explorar la naturaleza.
 
 Con esto no quiero llegar a una reflexión más profunda, pero que te tomes el tiempo de pensar qué significa esa emoción o sentimiento para tí. Es algo que nos mueve y a tomar decisiones las cuales me tienen hoy en día escribiendo estas palabras. 
- 
+
+Escribir esto me hizo pensar el porqué lo hago, porque escribiría algo que quizás no tenga tanta relación a lo que vemos en la clase, pero en verdad si la tiene. Sin estas reflexiones y comentarios no tendría las reflexiones que hoy en día presentó en el curso, esto es algo que siempre realizo en mis croqueras, independiente del ramo, pero creo al fin se me da el espacio para poder expresarme más allá de solo una hoja de papel que es personal y nadie más leerá. A pesar de que quizás nadie lea estos párrafos, me siento escuchada. En cualquier minuto puedo volver aquí y leer como pensaba la Kriss de cuarto año, cuáles eran sus reflexiones de la vida. 
 
 ### clase
 
