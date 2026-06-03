@@ -36,7 +36,11 @@ Nico hizo el esquemátco del circuito en Kicad.
 
 Y Carla hizo el circuito en Falstad
 ![carla](./imagenes/carla.jpeg)
-  
+
+Yo armé todos los circuitos, como aún no teníamos el chip 4070 ni los potenciómetros de 250k que requería el circuito, puse un chip con la misma cantidad de pines, para dejar el circuito armado, así la siguiente clase, le reemplazo el chip y le pongo los potenciómetros. 
+
+![base](./imagenes/prueba.jpeg)
+
 ---
 ### Capítulo 5
 

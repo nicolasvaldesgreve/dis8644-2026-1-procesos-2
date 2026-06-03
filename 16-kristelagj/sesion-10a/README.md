@@ -16,6 +16,17 @@ Sí me hacen mencionar un top de sus canciones según mis gustos puedo mencionar
 
 - Misaa
 
+Bueno (ciencias)  – Bello (museo) – Verdadero 
+
+→ imagen prehistoria. Escritura
+
+→ Imagen técnica
+
+ Atrapamiento: leer más
+ 
+Herramienta (extensión del cuerpo) - máquina - aparato
+
+
 ### imagenes de proceso
 
 ### post-clase

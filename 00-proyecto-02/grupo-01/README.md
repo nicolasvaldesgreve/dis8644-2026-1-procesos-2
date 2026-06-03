@@ -20,11 +20,13 @@ Título módulo 1
 
 ### Descripción general/conceptual 1
 
-¿Qué hace el circuito? Intentar explicarlo para gente que no sabe electrónica. Ejemplo: escucha los impactos sobre sí mismo y lo convierte en señales de aviso para otras cosas
+> ¿Qué hace el circuito? Intentar explicarlo para gente que no sabe electrónica. Ejemplo: escucha los impactos sobre sí mismo y lo convierte en señales de aviso para otras cosas
+
+Este módulo te permite interactuar con el sintetizador mediante vibraciones en el piezo, tales como golpes en la misma superficie en la que se encuentra el componente, hablando directo en el piezo con una voz alta o utilizándolo en nuestro cuerpo y causar vibraciones con nuestra garganta. Estas vibraciones serás captadas por el piezo, lo cual lo tomará como señal de avanzar +++ 
 
 ### Descripción de funcionamiento 1
 
-Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo administra los flujos de inputs a outputs internamente? ¿Qué componente es el "corazón/cerebro"? ¿Qué truco descubrimos en el camino? ¿Especulativamente, qué se podría conectar a este módulo en el futuro?
+> Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo administra los flujos de inputs a outputs internamente? ¿Qué componente es el "corazón/cerebro"? ¿Qué truco descubrimos en el camino? ¿Especulativamente, qué se podría conectar a este módulo en el futuro?
 
 ### Esquemático 1
 
@@ -46,17 +48,25 @@ Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo ad
 
 Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcionando
 
+### BOM
+
+| Componente | Cantidad | Valor unitario | Link |
+| --- | --- | --- | --- |
+
+
 ## Circuito 2
 
 Título módulo 2
 
 ### Descripción general/conceptual 2
 
-¿Qué hace el circuito? Intentar explicarlo para gente que no sabe electrónica. Ejemplo: escucha los impactos sobre sí mismo y lo convierte en señales de aviso para otras cosas
+> ¿Qué hace el circuito? Intentar explicarlo para gente que no sabe electrónica. Ejemplo: escucha los impactos sobre sí mismo y lo convierte en señales de aviso para otras cosas
+
+Este módulo, al igual que el anterior, permite que uno pueda interactuar con el sintetizador al que esté conectado el piezo, pero en este caso se necesita contacto directo al componente lo cual se manifestará como una interferencia en el sonido que se esté emitiendo.
 
 ### Descripción de funcionamiento 2
 
-Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo administra los flujos de inputs a outputs internamente? ¿Qué componente es el "corazón/cerebro"? ¿Qué truco descubrimos en el camino? ¿Especulativamente, qué se podría conectar a este módulo en el futuro?
+> Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo administra los flujos de inputs a outputs internamente? ¿Qué componente es el "corazón/cerebro"? ¿Qué truco descubrimos en el camino? ¿Especulativamente, qué se podría conectar a este módulo en el futuro?
 
 ### Esquemático 2
 

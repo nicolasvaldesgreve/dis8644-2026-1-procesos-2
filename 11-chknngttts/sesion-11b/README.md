@@ -62,4 +62,6 @@
         - banda de Sarah Bonito, Gus Lobban y Jamie Bulled
           - Twee Pop / Indie Pop / Noise Pop
     - "Ceres & Calypso in the Deep Time - Candy Claws"
-      - [Ceres & Calypso in the Deep Time](./imagenes/candy-claws.jpg)
+      - ![Ceres & Calypso in the Deep Time](./imagenes/candy-claws.jpg)
+        - banda de Ryan Hover, Karen Hover y Hank Bertholf
+          - Dream Pop / Shoegaze / Noise Pop
