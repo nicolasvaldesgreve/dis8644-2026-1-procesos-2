@@ -2,16 +2,17 @@
 
 ## Grupo
 
-Número de grupo: XX
+Número de grupo: 03
 
 Tema del grupo: OscilaXX
 
 Integrantes:
 
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
+- Vanessa García / vanessagarciaM
+- Antonia Loch / antoloch
+- Narely Riquelme / Narelyriquelme
+- Carla Núñez / ccarlabelenn
+- Ariel Orozco / arielorozco024
 
 ## Circuito 1
 
