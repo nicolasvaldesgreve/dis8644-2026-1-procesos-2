@@ -2,16 +2,17 @@
 
 ## Grupo
 
-Número de grupo: XX
+Número de grupo: 5
 
-Tema del grupo: OscilaXX
+Tema del grupo: Filtro
 
 Integrantes:
 
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
+- Antonia Améstica / antoniaamc
+- Catalina Balboa / Catabalboa
+- Sebastian Guevara / sebastianguevaralarotta
+- Catalina Jeria / catalinajeria
+- Luisa Toro / Luisaatoro9
 
 ## Circuito 1
 

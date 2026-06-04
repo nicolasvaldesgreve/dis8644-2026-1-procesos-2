@@ -228,6 +228,14 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.3,
+          "drill": 0.2
+        },
+        {
+          "diameter": 0.5,
+          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false
@@ -239,7 +247,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "04"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -487,7 +495,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Proyecto Chip 4040.kicad_pro",
+    "filename": "piezo-01-v04.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -642,18 +650,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Proyecto Chip 4040.kicad_sch",
-        "name": "Proyecto Chip 4040",
-        "uuid": "775ddcce-7399-4327-91c6-577fa9692cfa"
+        "filename": "piezo-01-v04.kicad_sch",
+        "name": "Raíz",
+        "uuid": "26e134e7-8c2f-404a-856e-504c99522824"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J2,J8,#FLG4-5,BT1,#PWR15-16",
     "variants": []
   },
   "sheets": [
     [
-      "775ddcce-7399-4327-91c6-577fa9692cfa",
-      "Proyecto Chip 4040"
+      "26e134e7-8c2f-404a-856e-504c99522824",
+      "Raíz"
     ]
   ],
   "text_variables": {},

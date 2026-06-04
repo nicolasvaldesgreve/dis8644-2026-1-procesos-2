@@ -195,8 +195,8 @@
       ],
       "track_widths": [
         0.0,
-        0.4,
-        0.8
+        4.0,
+        8.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -487,7 +487,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Proyecto Chip 4040.kicad_pro",
+    "filename": "percusion-02-v04.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -642,9 +642,9 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Proyecto Chip 4040.kicad_sch",
-        "name": "Proyecto Chip 4040",
-        "uuid": "775ddcce-7399-4327-91c6-577fa9692cfa"
+        "filename": "percusion-02-v04.kicad_sch",
+        "name": "percusion-02-v04",
+        "uuid": "b50d4d9c-abcf-44ec-9e20-f6a55e0d2037"
       }
     ],
     "used_designators": "",
@@ -652,8 +652,8 @@
   },
   "sheets": [
     [
-      "775ddcce-7399-4327-91c6-577fa9692cfa",
-      "Proyecto Chip 4040"
+      "b50d4d9c-abcf-44ec-9e20-f6a55e0d2037",
+      "percusion-02-v03"
     ]
   ],
   "text_variables": {},
