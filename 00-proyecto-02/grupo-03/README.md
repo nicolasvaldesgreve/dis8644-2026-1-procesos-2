@@ -86,10 +86,10 @@ Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo ad
 
 ### ¿Cómo ayudé a otro grupo?
 
-Lorem ipsum
+Le proporcionamos ayuda al grupo que tambien estaba haciendo osciladores, prestandole potenciometros. 
 
 ### ¿Cómo me ayudó otro grupo?
 
-lorem ipsum
+Le daremos créditos especiales al grupo de piezos, quienes fueron de gran ayuda, ya que gracias a ellos resolvimos muchas dudas que nos surgieron a lo largo del proyecto. Al haber pasado por los mismos problemas que nosotros, nos ayudaron con la gráfica, nos prestaron potenciómetros, resolvieron dudas de bitácora y nos brindaron mucho apoyo emocional. También nuestro compañero Nicolás Miranda nos ayudó con las conexiones de la protoboard, ya que al inicio no logramos que sonara como oscilador, no existían variaciones y nos frustramos. Consultamos con Nico y él revisó el esquemático y la protoboard, llegando a la conclusión de que teníamos cables mal conectados.
 
 ## Bibliografía
