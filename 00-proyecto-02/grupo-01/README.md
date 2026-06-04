@@ -24,7 +24,7 @@ Este módulo te permite interactuar con el sintetizador mediante vibraciones en 
 
 ### Descripción de funcionamiento 1
 
-El circuito se conforma de 7 partes;
+El circuito se conforma de 7 partes:
   - Piezoeléctrico
   - Pre-Amp (TL072)
   - Inversor de señal (2N2222)
@@ -100,13 +100,25 @@ Título módulo 2
 
 ### Descripción general/conceptual 2
 
-Este módulo, al igual que el anterior, permite que uno pueda interactuar con el sintetizador al que esté conectado el piezo, pero en este caso se necesita contacto directo al componente lo cual se manifestará como una interferencia en el sonido que se esté emitiendo.
+Este módulo, al igual que el anterior, permite que uno pueda interactuar con el sintetizador al que esté conectado el piezo, pero en este caso se necesita contacto directo al componente lo cual permitirá que lo que esté conectado a este se active.
 
 ### Descripción de funcionamiento 2
 
 > Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo administra los flujos de inputs a outputs internamente? ¿Qué componente es el "corazón/cerebro"? ¿Qué truco descubrimos en el camino? ¿Especulativamente, qué se podría conectar a este módulo en el futuro?
 
+El circuito se conforma por 4 partes:
 
++ Piezoeléctrico
++ High pass filter
++ Op-Amp (LM324)
++ Inversor de señal (2N2222)
++ Regulador de voltaje (L7805CV)
+
+Este circuito emplea el funcionamiento de *activador* es decir, envía señal a un módulo siguiente, el cual para verificar su funcionamiento se utiliza un led o se puede conctar a ua salida de audio utilizando un amp y parlante. 
+
+El chip LM324 se utiliza como DC offset, regulando el voltaje bajandolo a la mitad 9V ---> 4.5V. Además cuenta con una salida de audio [pin 7] que utlizamos como salida para el siguiente modulo. De esta manera al interactuar con el piezo la señal se ve distorcionada por un breve preiodo de tiempo ya que la señal que emite el circuito es constante.
+
+En cuanto a los reguladores de voltaje, ya que nuestro chip LM324 ya cuenta con uno decidimos crear dos versiones, una con el standard y uno sin. 
 
 ### Esquemático 2
 
