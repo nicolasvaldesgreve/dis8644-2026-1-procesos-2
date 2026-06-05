@@ -35,11 +35,13 @@ El circuito se conforma de 7 partes:
 
 Como estándar en el trabajo todos tenemos que alimentar nuestro circuito con 5V. Para esto usamos el L7805CV
 
-El piezo tiene 3 estados al recibir señal. ( imagen explicativa )
+El piezo tiene 3 estados al recibir señal.
+
+![estados piezo](./imagenes/piezo-signal.png)
 
 Para que el Pre-Amp pueda recibir la señal correctamente se necesita crear un voltaje medio entre VCC y GND. Para esto se usan 2 Resistencias del mismo valor, que dividen el voltaje a la mitad **``5V ---> 2.5V``**, esto permite que capte la señal completa y funcione correctamente. El Pre-Amp en nuestro caso también funciona para aumentar la sensibilidad del piezo, normalmente este solo detecta las señales directas al disco cerámico del piezo, pero con el Pre-Amp logramos que detecte señales a varios centímetros de este. 
 
-Para afinar la señal que recibe el inversor, colocamos un filtro low-pass, esto permite que solo corriente bajo los 500hz *aprox.* avancen en el circuito. Esta señal entra al transistor (2N2222) que invierte la señal que recibe, puesto que el Clock (NE555P) busca recibir señales negativas en su pin 2 (Trigger) para funcionar. El Clock en modo monoestable se conecta con el pin 14 del secuenciador (CD4017) para que señale cuando se avanza en los steps. 
+Para afinar la señal que recibe el inversor, colocamos un filtro low-pass, esto permite que solo corriente bajo los 500hz *aprox.* avancen en el circuito. Esta señal entra al transistor (2N2222) que invierte la señal que recibe, puesto que el Clock (NE555P) busca recibir señales negativas en su Trigger [pin 2] para funcionar. El Clock en modo monoestable se conecta con el pin 14 del secuenciador (CD4017) para que señale cuando se avanza en los steps. 
 
 ### Descubrimientos
 
@@ -63,6 +65,8 @@ Para afinar la señal que recibe el inversor, colocamos un filtro low-pass, esto
 [video-piezo-01](https://youtu.be/JZCzPmO_yxs)
 
 ![proto-1-1](./imagenes/piezo-01-1.jpg)
+
+![piezo cuello](./imagenes/piezo-cuello.jpg)
 
 ### BOM
 
@@ -116,7 +120,7 @@ El circuito se conforma por 4 partes:
 
 Este circuito emplea el funcionamiento de *activador* es decir, envía señal a un módulo siguiente, el cual para verificar su funcionamiento se utiliza un led o se puede conectar a una salida de audio utilizando un Amp y parlante. 
 
-El chip LM324 se utiliza como DC offset, regulando el voltaje bajando a la mitad 9V ---> 4.5V. Además, cuenta con una salida de audio [pin 7] que utilizamos como salida para el siguiente módulo. De esta manera al interactuar con el piezo la señal se ve distorsionada por un breve periodo de tiempo ya que la señal que emite el circuito es constante.
+El chip LM324 se utiliza como DC offset, regulando el voltaje bajando a la mitad **``9V ---> 4.5V``**. Además, cuenta con una salida de audio [pin 7] que utilizamos como salida para el siguiente módulo. De esta manera al interactuar con el piezo la señal se ve distorsionada por un breve periodo de tiempo ya que la señal que emite el circuito es constante.
 
 En cuanto a los reguladores de voltaje, ya que nuestro chip LM324 cuenta con uno decidimos crear dos versiones, una con el estándar dado para la sección y uno con el integrado en el circuito.
 
@@ -134,8 +138,6 @@ Archivo piezo-02-v04: Solo regulador integrado.
 
 
 ![pcb front](./imagenes/pcb-02-1.png)
-
-
 
 ![pcb back](./imagenes/pcb-02-2.png)
 
@@ -172,7 +174,13 @@ Archivo piezo-02-v04: Solo regulador integrado.
 
 ## Otros circuitos
 
-En el piezo 01 usamos el HiFi Pre-Amp Circuit de [jevron1984](https://electronics.stackexchange.com/questions/348898/need-some-help-building-a-tl072-preamp-circuit). No era compatible con el circuito, después armamos un circuito propio utilizando el 2N2222, pero tampoco funcionó, por lo que lo sustituimos por el Pre-Amp de [PimPom](https://www.diyaudio.com/community/threads/tl072-as-mike-input-preamp.317907/).
+En el piezo 01 usamos el HiFi Pre-Amp Circuit de [jevron1984](https://electronics.stackexchange.com/questions/348898/need-some-help-building-a-tl072-preamp-circuit).
+
+![pre-amp malo TL072](./imagenes/circuito-tl072-amp-malo.jpg)
+
+No era compatible con el circuito, después armamos un circuito propio utilizando el 2N2222, pero tampoco funcionó, por lo que lo sustituimos por el Pre-Amp de [PimPom](https://www.diyaudio.com/community/threads/tl072-as-mike-input-preamp.317907/).
+
+![pre-amp TL072](./imagenes/circuito-tl072-amp.png)
 
 En el piezo 02 armamos un Amp con el LM386, siguiendo el mismo esquemático que se nos entregó por misaaaaaa en el proyecto-01.
 
@@ -200,6 +208,8 @@ En el piezo 02 armamos un Amp con el LM386, siguiendo el mismo esquemático que 
 
 + jevron1984. (2018, January 8). Need some help building a TL072 preamp circuit. Electronics Stack Exchange. <https://electronics.stackexchange.com/questions/348898/need-some-help-building-a-tl072-preamp-circuit>
 
-+ misaaaaaa. (n.d.). transistoresDeclaman. GitHub. Retrieved 3 16, 2025, from <https://github.com/misaaaaaa/transistoresDeclaman/blob/main/sch.pdf>
++ misaaaaaa. (n.d.). transistoresDeclaman. GitHub. <https://github.com/misaaaaaa/transistoresDeclaman/blob/main/sch.pdf>
 
 + Pimpom. (2018, 1 25). TL072 as mike input preamp. diyAudio. <https://www.diyaudio.com/community/threads/tl072-as-mike-input-preamp.317907/>
+
++ kickstomp. (2021, 3 27). 06 Piezo Trigger. arduinokickstompdrum. <https://arduinokickstompdrum.wordpress.com/2021/05/27/06-piezo-trigger/>
