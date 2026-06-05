@@ -137,9 +137,9 @@ Archivo piezo-02-v04: Solo regulador integrado.
 ### PCB 2
 
 
-![pcb front](./imagenes/pcb-02-1.png)
+![pcb front](./imagenes/pcb-02-1.jpeg)
 
-![pcb back](./imagenes/pcb-02-2.png)
+![pcb back](./imagenes/pcb-02-2.jpeg)
 
 
 ### Documentación audiovisual funcionamiento protoboard 2
