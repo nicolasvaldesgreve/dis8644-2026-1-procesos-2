@@ -97,7 +97,7 @@ tratando de emocionar a otros hombres.
 
 —Calidoscopio - Ray Bradbury
 
-![comunicacion](https://github.com/paulafuentesm/dis8644-2026-1-procesos-2/blob/fa423db2163b6085556ce2ac2e7b39b3d2152134/00-proyecto-02/grupo-04/imagenes/comunicacion.png)
+![comunicacion](./imagenes/comunicacion.png)
 
 *imagen: Schauer, K. (2021)*
 
