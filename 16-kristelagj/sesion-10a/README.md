@@ -26,9 +26,20 @@ Bueno (ciencias)  – Bello (museo) – Verdadero
  
 Herramienta (extensión del cuerpo) - máquina - aparato
 
-
-### imagenes de proceso
-
 ### post-clase
+
+*capítulo 4: acto de fotografiar*
+
+Flusser nos menciona en este capítulo que el fotógrafo no es libre de tomar decisiones. Tiene la posibilidad de realizar ciertas cosas, pero trabaja a partir de las limitaciones del aparato que es programado que tiene reglas y el humano debe explorarlas. Las mejores fotografías son las que logran producir algo inesperado.
+
+El fotógrafo no captura la realidad.
+Por otro lado, el fotógrafo busca imágenes que no se hayan visto antes, no es de su interés repetir fotografías ya existentes, el quiere imágenes nuevas, será para él una búsqueda constante de posibilidades ocultas dentro de la cámara.
+
+*capítulo 5: la fotografía*
+
+El autor se comienza a cuestionar la creencia de que la fotografía es la copia de la realidad, siendo símbolos codificados. 
+
+Aquí es cuando nos dicen que las fotos son una ilusión de la realidad, que nada ocurre como sentimos y vemos las fotos, es una ilusión que nos dan. 
+También nos menciona que las fotografías son conceptos visuales, que no existen situaciones blancas o negras en este mundo, son conceptos generados por las teorias opticas. 
 
 

@@ -19,12 +19,11 @@ https://youtu.be/ZNKjxHdw_hE?si=uKbEONGxyMRDEtui
 
 ¿a qué quiero llegar con esto? es que con un poco que sepamos y nos preguntemos podemos llegar a muchas partes, además de poder entablar una conversación con cualquier persona que puede responder tus preguntas o que tu le generes más preguntas. 
 
-
-### clase
-
-- Misaa
-
-### imagenes de proceso
-
 ### post-clase
 
+*capítulo 6: la distribución de la fotografía*
+Flusser nos menciona que la fotografía también adquiere su significado cuando esta es distribuida en distintos medios haciendo que dependiendo de este le coloca un tinte distinto, así dándole una visión nueva y tergiversando. Además, el autor señala que el verdadero valor de la fotografía no está en el objeto físico, sino en la información que transporta.
+
+*capítulo 6: la recepción de la fotografía*
+
+En este capítulo, Flusser analiza cómo las personas interpretan las fotografías, ya que solemos creer de inmediato lo que las imágenes nos muestran de forma objetiva, pero lo que no sabemos, como se menciona en el capítulo anterior, es que es una representación creada. Simplifican situaciones que se nos hacen complejas generando una ilusión. Las imágenes tienen un poder muy grande sobre lo que nosotros pensamos y hacemos teniendo así una influencia muy grande en nuestro día a día, para que esto no suceda y seamos influenciado por otros, él nos propone que tengamos una mirada crítica, que no miremos de pasada, si no que analisemos y cuestionemos las imagenes y su contexto.
