@@ -42,6 +42,12 @@ Antes de armar cada circuito realizamos un testeo del flujo de la corriente de c
 
 ### Esquemático 1
 
+Esquemático referencia 1: Logic Noise: Filters And Drums de Hackaday.
+
+![esquematico referencia](./imagenes/esquematico-referencia-1.PNG)
+
+Esquemático intervenido:
+
 ![esquemático circuito](./imagenes/esquematico-1.png)
 
 ### PCB 1
@@ -90,6 +96,12 @@ Cuando alguien usa Barry Benson, interactúa con cuatro potenciómetros. Cada un
 ![falstad circuito 02](./imagenes/falstad-02.gif)
 
 ### Esquemático 2
+
+Esquemático referencia: Inharmonic square waves (página 238) de Make: Electronic Music from scratch.
+
+![esquematico referencia](./imagenes/esquematico-referencia-2.JPG)
+
+Esquemático intervenido: 
 
 ![esquemático circuito](./imagenes/esquematico-2.png)
 
