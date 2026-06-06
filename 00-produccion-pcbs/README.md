@@ -97,10 +97,13 @@ en pcb:
 - cambiamos C1 por condensador no polarizado
 - conectamos patita del medio de potenciómetro
 - confusión en los tamaños de los condensadores C4 y C5
+- los tamaños de las pistas usados no fueron los indicados en clases ni en estandarización.
+- faltó el paso de agregar tierra a la placa, no está hecho.
 
 ### g-05-fil-02-rev-a
 
-- - error grave en la nomenclatura de los proyectos: el 01 en su README dicen que es el activo, pero en Kicad es el pasivo
+- error grave en la nomenclatura de los proyectos: el 01 en su README dicen que es el activo, pero en Kicad es el pasivo
+- no fue enviado a producción, ya que no funcionó en protoboard
 
 ## grupo-06: percusiones
 
