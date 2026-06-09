@@ -22,3 +22,5 @@ arriba y abajo 3 cosas
 - cobre (arriba y abajo)
 - mascara, recubrimiento de color de la placa (aislante)
 - silscreen (dibujos)
+
+Procesar lo que los profes hicieron en las placas y veamos las diferencias que tienen con las nuestras
