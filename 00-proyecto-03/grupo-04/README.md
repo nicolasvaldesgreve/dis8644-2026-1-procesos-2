@@ -21,10 +21,18 @@ Comencemos c:
 
 ## 1. lista de materiales (bom), incluyendo cantidades, placa, presupuesto, stock
 
+### Bom chirigue mecanizado:
+
 | Componente | Cantidad | valor unitario | link/Comprar |
 |------------|----------|--------------|---------|
-| Chip 4069UBE | 1 | $1.100 | <https://www.cabezacuadrada.cl/product/cd4069/> |
+| chip 40106 | 1 | $1.200 CLP | <https://electronicareal.cl/producto/integrado-digital-cd-40106/?srsltid=AfmBOopGygR12K2_-zL_pf-RaOB5PvLmK7oy2TURaqkeA0zU1alOhJD-> |
 
+
+### Bom comunicaciones espaciales:
+
+| Componente | Cantidad | valor unitario | link/Comprar |
+|------------|----------|--------------|---------|
+| chip 40106  | 1 | $1.200 CLP | <https://electronicareal.cl/producto/integrado-digital-cd-40106/?srsltid=AfmBOopGygR12K2_-zL_pf-RaOB5PvLmK7oy2TURaqkeA0zU1alOhJD-> |
 
 ## 2. ensamblaje de 3 PCBs de las que hayan participado en su diseño
 ## 3. propuesta de 2 partituras para performance de 5 minutos con el sintetizador diseñado
