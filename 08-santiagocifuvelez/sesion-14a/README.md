@@ -28,6 +28,11 @@ Las placas llegaron a la Universidad Diego Portales el lunes 15 de junio, y el m
 ![foto6](./imagenes/img6.jpg)
 ![foto7](./imagenes/img7.jpg)
 ![foto8](./imagenes/img8.jpg)
+![foto9](./imagenes/img9.jpg)
+![foto10](./imagenes/img10.jpg)
+![foto11](./imagenes/img11.jpg)
+![foto12](./imagenes/img12.jpg)
+![foto13](./imagenes/img13.jpg)
 
 ## 3.	Preparación para presentación del proyecto 03.  
 ## 4.	Ono, cap. 5, 6  
