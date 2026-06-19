@@ -20,3 +20,14 @@
 - temperatura ideal apox
 - esponjita con agua para limpiar la punta
 - cortar las patitas luego de soldar 
+
+
+### Yoko ono 
+
+## Cap 5, 
+-
+-
+
+## Cap 6, 
+-
+-
