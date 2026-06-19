@@ -105,7 +105,7 @@ Estos son algunos de los referentes visuales que utilizamos para inspirarnos. Ob
 
 ![referente1](./imagenes/referente1.jpeg)
 
-![referente2](./imagenes/referent2.jpeg)
+![referente2](./imagenes/referente2.jpeg)
 
 ![referente3](./imagenes/referente3.jpeg)
 
