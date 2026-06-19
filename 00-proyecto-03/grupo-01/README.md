@@ -1,3 +1,83 @@
+# Grupo 01 - Piezo
+
+Integrantes:
+
+- Benjamín Alonso Álvarez Pavez / [benjaminalvarez21](<https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/03-benjaminalvarez21>)
+- Anays Valentina Cornejo Candia / [Anaysval](<https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/09-Anaysval>)
+- Bruno Ferrari Meyer / [chknngttts](<https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/11-chknngttts>)
+- Lucas Ignacio Ortiz Aguirre / [ryukivol](<https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/21-ryukivol>)
+- Nicolás Elías Valdés Greve / [nicolasvaldesgreve](<https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/31-nicolasvaldesgreve>)
+
+# Montaje de componentes y soldadura en PCB
+
+Para estar preparados cuando llegase el momento de soldar los componentes a nuestra PCB, decidimos hacer una lista de componentes de Maincra para identificar qué cosas tendríamos que comprar y cuales ya se encontraban en el LID.
+
+# Partituras
+
+### Ideas descartadas de partituras
+
+#### Escaleras
+
+(ver. literal) Como grupo 01 (las 5 personas) nos vamos a República 180, Santiago de Chile con "maincra" (piezo 01), el parlante estándar y un oscilador. Al llegar a la FAAD situamos "maincra" en uno de los hoyos de la muralla que soporta la escalera de cemento expuesto. Conectamos los piezos a escalones en distintos pisos y nos unimos a los estudiantes/profesores/funcionarios que estén subiendo o bajando la escalera. La idea es hacer sonar el oscilador a través de nuestro circuito (y el parlante). Esto duraría 5 minutos. 
+
+#### Golpear
+
+(ver. literal)  Sacar los piezos por la ventana de la sala 202 de Salvador Sanfuentes y hacerlos ingresar por la ventana de la sala 101. Conectarlos a las mesas de esta última sala y comenzar a golpearlas. El sonido del sintetizador se escucha en la sala 202, aunque la activación ocurre en el espacio inferior. 
+
+#### Voz
+
+(ver. literal)  Conectar el piezo a la garganta del intérprete. Este grita durante 30 segundos mientras sale de la sala. Luego, el piezo se desconecta, generando un silencio absoluto de 4 minutos. Posteriormente, el intérprete vuelve a conectar el piezo y entra nuevamente a la sala gritando durante otros 30 segundos. 
+
+### Partituras oficiales
+
+#### Ping Pong
+
+(ver. literal) Como grupo-01 vamos a ir a República 180, Santiago de Chile con “maincra” (piezo-01), el parlante, RELO (Reloj 555 Monoestable) y “nyan cat” (secuenciador-2). Poner un piezo en cada lado superior de la mesa al centro, y pegar a la mesa 	con cinta adhesiva. Jugar una partida con paletas y pelota de Ping Pong que se piden donde los guardias. Con el impacto de la pelota en la mesa el secuenciador avanza, haciendo que el oscilador pueda funcionar. Jugar durante 5 minutos. Al perder, se cambian los jugadores. Al finalizar los 5 minutos se devuelven las paletas y pelota a los guardias. 
+
+(ver. poética)
+
+>Ve a República 180 y ubica el piezo en la mesa de ping pong
+
+>Invita a alguien a jugar
+
+>Jueguen durante 5 minutos o hasta que se aburran
+
+![ping-pong-1](./imagenes/mesa-ping-pong-1.gif) 
+
+![ping-pong-2](./imagenes/mesa-ping-pong-2.gif) 
+
+- Ejemplo del funcionamiento del circuito.
+	- Gracias a estos 2 estudiantes de arquitectura que amablemente jugaron Ping Pong para ver si el piezo detectaba las vibraciones de la pelota golpeando la mesa.
+
+#### Torniquetes
+
+Como grupo-01 dirigirse a los torniquetes de República 180 y poner un piezo en cada extremo del set que se encuentran en la entrada de la facultad. Procurar que los cables estén asegurados al piso con cinta gaffer para evitar accidentes. Entrar y salir de la FAAD junto a los estudiantes, funcionarios y profesores haciendo funcionar el piezo, secuenciador, RELO y parlante. Tanto la verificación del scan QR como la rotación del torniquete en sí funcionan como activadores del piezo.
+
+(ver. poética)
+
+>Ve a República 180
+
+>Ubica el piezo en los torniquetes
+
+>Mira cómo la gente entra y sale
+
+>Código, giro, sonido
+
+![torniquete](./imagenes/torniquete-1.gif) 
+
+- Ejemplo del funcionamiento del circuito.
+	- El piezo logra detectar el momento en el que el QR se verifica.
+
+--- 
+
+### PCB
+
+![pcb-1](./imagenes/placas-1.png)
+
+![pcb-2](./imagenes/placas-2.png) 
+
+--- 
+
 # BOM PCB UTILIZADAS
 
 ### BOM PCB MAINCRA
