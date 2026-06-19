@@ -21,19 +21,11 @@ Nos complicaba generar ideas a partir de algo que todavía no podíamos escuchar
 ### Posibles cambios
 Vimos la posibilidad de cambiar los potenciómetros por algo nuevo para probar y unir aún más nuestro concepto de unidad.
 
-+ Cambiar uno de los potenciómetros por un fotosensor (fotorresistencia), por temas relacionados con la naturaleza y el control de la luz, ya que esta siempre fue una de las opciones que más nos gustó.
-
-+ Termistores: estos se calientan con el calor de la mano y cambian su resistencia según la temperatura. Nos parecieron interesantes porque incorporan la interacción directa del cuerpo de quien utiliza el instrumento.
-
-![termistores](https://github.com/paulafuentesm/dis8644-2026-1-procesos-2/blob/927d13f82ebf3f877f5a6b2341016051ed1ec085/12-paulafuentesm/sesion-13b/imagenes/termistores.jpg)
-
-Precio referencia: 4.200 clp- 8.000 clp aprox. ( tienen diferencias pero no sabemos muy bien en que afecta el sonido)
-
-+ SoftPot: sensor táctil  funciona al presionarlo con el dedo, cambiando su resistencia dependiendo del punto en que se toque o deslice la presión. Nos llamó la atención porque permite una interacción más directa y gestual con el instrumento.
-
-![spftpot](https://github.com/paulafuentesm/dis8644-2026-1-procesos-2/blob/927d13f82ebf3f877f5a6b2341016051ed1ec085/12-paulafuentesm/sesion-13b/imagenes/softpot.jpg)
-
-Precio referencia:  10.612 clp aprox
+| Potenciador | Precío Aprox. | Descripción | Foto |
+|------------|----------|--------------|---------|
+| fotosensor | --- | Vibraciones según la luz ( ya utilizado) | Lo tenemos |
+| Termistores | 4.200 clp- 8.000 clp aprox. ( diferentes tamaños )| Estos se calientan con el calor de la mano y cambian sonido según la temperatura. Nos parecieron interesantes porque incorporan la interacción directa del cuerpo. | ![termistores](https://github.com/paulafuentesm/dis8644-2026-1-procesos-2/blob/927d13f82ebf3f877f5a6b2341016051ed1ec085/12-paulafuentesm/sesion-13b/imagenes/termistores.jpg) |
+| SoftPot | 10.612 clp aprox | sensor táctil  funciona al presionarlo con el dedo, nos llamó la atención porque permite una interacción más directa y gestual con el instrumento. | ![spftpot](https://github.com/paulafuentesm/dis8644-2026-1-procesos-2/blob/927d13f82ebf3f877f5a6b2341016051ed1ec085/12-paulafuentesm/sesion-13b/imagenes/softpot.jpg) |
 
 Actualizacion: nos dijieron de esperar antes de comprarlos
 
