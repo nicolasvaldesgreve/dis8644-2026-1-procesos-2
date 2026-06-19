@@ -13,6 +13,14 @@ Integrantes:
 - Tomas Catrileo / tomascatri
 
 <br>
+
+## Proceso
+
+Esta semana estuvo llena de dificultades por temas de salud de lxs miembros del grupo, eso no nos detuvo... tanto
+
+Nos decidimos a poblar todas las PCB, esto se debe a que queremos generer un sistema con estas placas, queremos experimentar con la mayoria de sus combinaciones y por lo mismo la carcasa tambien responde a esto.
+
+El punto más relevante de lo que queremos hacer es que esto viva por su propia cuenta, para lograrlo remplazamos _**todos**_ los potenciometros por LDR, la idea es lograr un sistema que responda al entorno
   
 ## BOM (Bill of materiales)
 
@@ -339,6 +347,16 @@ Integrantes:
 
 ![Carcasa](./imagenes/carcasa.jpg)
 
+![Carcasa](./imagenes/carcasa02.jpeg)
+
+![Carcasa](./imagenes/carcasa03.jpeg)
+
+<br>
+
+La idea principal de esta carcasa es poder soportar cada tipo de placa, además de la utilización de materiales de acero y acrilico. En la cual crecerán semillas de chía
+
+Esto por el mismo motivo del como se articula el secuenciador, es decir, la naturaleza creciendo sobre la rigidez humana
+
 
 ## Placas
 
@@ -478,6 +496,7 @@ Encender luces de la habitación
 
   ### Notas
 
-  Estas partituras no solo se basaron en el trabajo de Yoko Ono con Grapefruit, sino que además nos basamos en el texto de Pauline Oliveros, Sonic Meditations. Ambos utilizan poesia para poder expresar y representar situaciones que se relacionan al sonido, algo más allá de la música convencional.
+  Estas partituras no solo se basaron en el trabajo de Yoko Ono con Grapefruit, sino que además nos basamos en el texto de Pauline Oliveros, Sonic Meditations. Ambos utilizan poesia para poder expresar y representar situaciones que se relacionan al sonido, algo más allá de la música convencional. Esto se relaciona directamente con el sentido del sintetizador, el cual no busca manipularse para generar música convencional, sino que hacer **ruido** que se relaciona directamente con el ambiente.
 
-  Esto se relaciona directamente con el sentido del sintetizador, el cual no busca manipularse para generar música convencional, sino que hacer **ruido** que se relaciona directamente con el ambiente
+La idea de traer de vuelta la conciencia de los sentidos, desde el encuentro entre el ambiente, el sintetizador y los intérpretes, ha sido algo con lo que hemos querido trabajar, con el concepto de la “Escucha profunda”, de Pauline Oliveros que es un conjunto de meditaciones a través del sonido. nos ayudaron a recrear lo que se quería lograr con estas partituras, ya sea en solitario como en grupo. 
+Cada una de las partes de la partitura va tomando una idea, que puede ser material o no, a lo que se le puede prestar atención, aunque sea un día, aunque sean 5 minutos.
