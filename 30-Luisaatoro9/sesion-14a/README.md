@@ -55,3 +55,48 @@ El nombre Fragmentos hace referencia a esa idea, fragmentos de circuito, fragmen
 La composición gráfica busca acompañar esa sensación. Los elementos del circuito aparecen ampliados, desenfocados y superpuestos, como si fueran recuerdos o señales parciales. No intentan explicar cómo funciona el dispositivo, sino sugerir que detrás del sonido existe una estructura que solo podemos percibir de manera incompleta.
 
 Por eso la obra se mueve constantemente entre lo visible y lo oculto, entre lo que se escucha claramente y lo que apenas se percibe.
+
+### Profundización sobre las PCB y el desarrollo de la partitura
+
+Al analizar con mayor detalle los tres circuitos utilizados en el proyecto, surgió una observación importante respecto a la forma en que debía construirse la partitura. Inicialmente, las instrucciones estaban planteadas desde una lógica más abierta e interpretativa, invitando al intérprete a explorar el sonido mediante acciones generales y descripciones sensoriales. Sin embargo, al revisar los esquemáticos fue evidente que cada PCB ofrece posibilidades de interacción muy distintas, por lo que la partitura podía aprovechar mejor las características reales de cada dispositivo.
+
+#### PCB 01: Percusor
+
+La primera PCB corresponde al Percusor y posee tres potenciómetros (RV1, RV2 y RV3). Esto significa que el intérprete puede modificar simultáneamente tres parámetros distintos del sonido.
+
+A partir de esta observación surgió la posibilidad de transformar las instrucciones en acciones más específicas, indicando no solo qué escuchar o qué sensación buscar, sino también cuánto mover cada control. De esta forma, la partitura deja de ser únicamente descriptiva y comienza a relacionarse directamente con la interfaz física del instrumento.
+
+Los tres potenciómetros pueden entenderse como tres dimensiones de exploración sonora independientes. Esto permite diseñar instrucciones donde cada movimiento tiene una dirección, una duración y una amplitud determinadas, generando una interpretación más precisa y reproducible.
+
+#### PCB 02: Secuenciador
+
+La segunda PCB corresponde al Secuenciador. A diferencia del Percusor, este módulo no posee potenciómetros, sino que funciona mediante una lógica de pasos y activaciones.
+
+Esta característica modifica completamente la manera en que puede ser representado dentro de una partitura. Mientras el Percusor se relaciona con movimientos continuos, el Secuenciador se relaciona con eventos discretos en el tiempo.
+
+Por esta razón, las instrucciones asociadas a este módulo pueden entenderse más como una secuencia de acciones que como movimientos expresivos. Esperar, activar, repetir o avanzar se convierten en operaciones centrales dentro de su interpretación.
+
+#### PCB 03: Filtro
+
+La tercera PCB corresponde al Filtro y contiene dos potenciómetros (RV1 y RV2).
+
+Este módulo resultó especialmente relevante para el desarrollo de la partitura, ya que el filtro modifica el carácter del sonido de manera gradual. En lugar de generar nuevos eventos, transforma aquello que ya está sonando.
+
+Esta condición permite asociar los movimientos de las perillas con ideas como abrir, cerrar, revelar, ocultar o desplazar frecuencias. A diferencia del Secuenciador, donde las acciones son discretas, aquí los cambios ocurren de manera continua y progresiva.
+
+La presencia de dos controles también permite representar gráficamente trayectorias de movimiento, indicando posiciones iniciales y finales, tiempos de desplazamiento y relaciones entre ambos parámetros.
+
+#### Conclusión
+
+El análisis de las tres PCB permitió comprender que la partitura no debía construirse únicamente desde una lógica musical tradicional ni tampoco desde instrucciones completamente abiertas. Cada circuito posee una forma particular de interacción, y esa interacción puede transformarse en lenguaje compositivo.
+
+A partir de esta observación, la partitura comenzó a evolucionar hacia un formato híbrido entre manual de instrucciones, guía de interpretación y partitura experimental. Las acciones propuestas ya no describen solamente qué debe escuchar el intérprete, sino también cómo debe relacionarse físicamente con el instrumento mediante movimientos concretos sobre los controles reales de cada PCB.
+
+Este descubrimiento permitió conectar de manera más directa la composición con el objeto diseñado, haciendo que la experiencia sonora surgiera de las posibilidades específicas de los circuitos construidos.
+
+<img width="4961" height="3509" alt="PROPUESTA_IN_Mesa de trabajo 1-08" src="https://github.com/user-attachments/assets/6290e153-d47b-4b6e-8d32-5039abe442ed" />
+<img width="4961" height="3509" alt="PROPUESTA_LU_Mesa de trabajo 1-07" src="https://github.com/user-attachments/assets/57992e3d-0778-4994-9ea4-910b43f0d9a9" />
+<img width="4961" height="3509" alt="PROPUESTA_LE_Mesa de trabajo 1-08" src="https://github.com/user-attachments/assets/7575211d-73a3-45cd-8554-561d63f956e8" />
+
+
+
