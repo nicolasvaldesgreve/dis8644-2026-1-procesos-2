@@ -1,6 +1,6 @@
 # sesion-13b
 
-12-06-2026
+15-06-2026
 
 ## Proceso en clase
 
