@@ -7,14 +7,11 @@ Clase 12 de junio
 *Partituras:* 
 musica de pendulum: es un manual/instrucción
 
-REVISAR ???
-
 ## **TRAER EL PROXIMO VIERNES**
 
 -lista materiales que usaremos
-  -ensamblaje de 3 pcbs de las quuehayan participado en su diseño
+  -ensamblaje de 3 pcbs de las que hayan participado en su diseño
     -propuesta de dos partituras para perfomance de 5min con el sitentizador diseñado
-
 
 ## **TRABAJO GRUPAL**
 
@@ -39,6 +36,13 @@ ver posibilidad de no usar cables y usar estos imanes que haras de conexión de 
     - acrilico
       - impresion 3d
 
+  
+![imagenes](./imagenes/idea-materialidad.jpeg)
+
+![imagenes](./imagenes/materialidad.jpeg)
+
+![imagenes](./imagenes/propuesta-carcasa.jpeg)
+
 # **TENER OJO**
 
 - Ver posibilidad de hacer secciones de trasparencias
@@ -59,10 +63,6 @@ ver posibilidad de no usar cables y usar estos imanes que haras de conexión de 
 - Para inspiraciones
   - https://loliel.narod.ru/DIY.pdf
 - llegar con los dos secuenciadores y el piezo soldado para el viernes 19
-
-## **TEXTO YOKO ONO**
-
-
 
 ## **Elección de circuitos** 
 
@@ -91,7 +91,8 @@ El Circuito 1 (Lub-dub) es ideal para transformar nuestro secuenciador en una ca
 
 **Elegiria los circuitos 05 y 06**
 
-O sea nos quedaria el circuito del cd4040 y el cd 4017 y los circuitos del grupo 05 y 06
+O sea nos quedaria el circuito del cd4040 y el cd 4017 y los circuitos del grupo 05 y 06? en mi opnion 
+de igual manera soldaremos todas las placas para probarlas todas y ver como funcionan 
 
 ## **TEXTO YOKO ONO:LIBRO COMPLETO**
 
