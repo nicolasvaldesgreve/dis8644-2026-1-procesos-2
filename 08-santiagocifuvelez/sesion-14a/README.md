@@ -41,3 +41,15 @@ Las placas llegaron a la Universidad Diego Portales el lunes 15 de junio, y el m
 ---
  
 ## e.	Ono, cap. 5, 6  
+
+### Capítulo 5 – Objeto
+
+Este capitulo es más corto que los demás, y bueno, aunque para mi no fue tan entretenido como los otros pasados, me gustó mucho los textos en donde jugaba o nombraba las partes del cuerpo humano, como este poema:
+
+
+![1](./imagenes/pieza-de-tienda-de-repuestos.jpg)
+
+Porque yo me lo tomó de manera literal, y aunque estos tipos de partes del cuerpo no se puedan donar (o quien sabe), lo rescato más como; aunque nosotros creamos que por más únicos que seamos, etc…, de alguna manera al también ser objetos, podemos ser reemplazados, como lo puede ser nuestro corazón (y eso que es uno de los órganos más importantes), o nuestro cuerpo en una morgue, desocupan un “hueco” sacando un cuerpo “objeto”, para meter otro. 
+Me gusta esto de rebajarnos a objetos para poder ver un poquito diferente nuestro pellejo al cual estamos acostumbrados a ver. 
+
+### Capítulo 6 - Cine
