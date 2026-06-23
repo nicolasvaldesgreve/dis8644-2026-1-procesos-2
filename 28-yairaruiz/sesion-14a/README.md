@@ -33,11 +33,11 @@ También se me olvida mencionar que el día anterior empezamos a armar el BOM ac
 
 ### capítulo 5 : objeto 
 
-Muestra objetos llevados al límite, Un objeto que puede dejar de ser estable.
+Este capítulo habla de objetos llevados al límite
 
 + Pieza de Quemar: “Hacer diferentes objetos para quemar… la pieza está lista cuando se convierta en ceniza.”
 
-El valor no está en conservar el objeto, sino en el proceso de quemarlo. El objeto existe para desaparecer, y el tiempo de destrucción también forma parte de él. 
+Yo creo que se refiere a que el valor no está en conservar el objeto, sino en el proceso de quemarlo. El objeto existe para desaparecer, y el tiempo de destrucción también forma parte de él. 
 
 El arte del proceso no tiene que ser completo ni permanente, puede existir en el proceso o en la transformación. Como en taller, donde muchas veces aprendemos más de los errores y del proceso que de lograr el resultado correcto a la primera.
 

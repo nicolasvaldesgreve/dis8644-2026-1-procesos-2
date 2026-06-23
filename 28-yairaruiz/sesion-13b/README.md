@@ -4,7 +4,7 @@ Ono, cap. 3, 4
 
 ### Capítulo 3:  eventos 
 
-Lo veo como acciones cotidianas donde las instrucciones nos ayudan a replantear esa rutina que pasa desapercibida. 
+Lo veo como acciones cotidianas donde las instrucciones nos ayudan notar las acciones de la rutina que pasa desapercibida. 
 
 + Pieza de Reloj: 
 "Elegir un reloj (...) nunca ponerlo en hora. Llamarlo reloj de la vida."

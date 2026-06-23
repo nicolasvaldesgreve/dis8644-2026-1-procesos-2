@@ -46,11 +46,9 @@ Además es muy reconocida por su libro Pomelo, donde interpreta instrucciones pa
 
 Me costó entender el concepto porque no habla de música de forma tradicional. En lugar de canciones o instrumentos, propone pensar la música a través de sonidos cotidianos, imaginarios o imposibles de escuchar. Tuve que leer varias veces las instrucciones para poder visualizarlas.
 
-La música no solo existe como sonido real, sino también como imaginación, recuerdo y atención. Muchas de las piezas ocurren en la mente del lector más que en la realidad.
-
 + Pieza Grabada IV
   
-  "Registrar el sonido de las estrellas moviéndose..."
+  "Registrar el sonido de las estrellas moviéndose"
 
 Es un sonido imposible de grabar pero lo importante no es el resultado, sino la idea de intentar capturar algo inalcanzable. 
 
@@ -73,5 +71,5 @@ Considerar la música como una experiencia de conexión humana.
   
 "Observar cuidadosamente tres cuadros. Mezclar bien en la cabeza."
 
-Esta pieza resume muy bien la idea del capítulo. La pintura no tiene que existir físicamente, puede construirse únicamente en la imaginación.
+Esta pieza resume muy bien la idea del capítulo. La pintura no tiene que existir físicamente, puede construirse en la imaginación.
 
