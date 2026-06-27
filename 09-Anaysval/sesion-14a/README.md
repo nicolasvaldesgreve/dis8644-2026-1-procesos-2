@@ -12,11 +12,21 @@ Luego durante la clase comenzamos la etapa de soldadura. Misa y Aarón nos diero
 
 Nos dedicamos a ordenar los componentes y entregárselos a Nico y Bruno, quienes estaban realizando las soldaduras. Más tarde, Benjamín y yo trabajamos en KiCad desde el computador, revisando la ubicación de cada componente y confirmando que todo estuviera correcto antes de indicar a Nico que podía proceder con la soldadura de las piezas („• ֊ •„)੭( • ᴗ - ) ✧
 
-Fotitos del proceso
+### Fotitos del proceso
+
+![foto](./imagenes/maincra.png)
+
+> Foto compartida por Benjamín
 
 ![foto](./imagenes/soldar-1.png)
 
+> Foto compartida por Benjamín
+
 ![foto](./imagenes/soldar-2.png)
+
+> pov ˙𐃷˙
+
+> Foto compartida por Benjamín 
 
 ![foto](./imagenes/pov.png)
 
