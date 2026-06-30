@@ -22,4 +22,7 @@ Termino la clase y realice mi sidequest, ir a San Diego por componentes faltante
 
 ## Pomelo Cap 5 y 6
 
-Falta agregar
+En el capítulo 5 los que más me gustaron fueron pieza de tienda de repuestos, porque es literalmente crear una tienda que venda cosas específicas en la partitura y la otra es pieza telescópica, me parece muy curioso el hecho de hacer una estatua a lo lejos para que la gente lo vea si o si desde un telescopio, me parecería cool presenciarlo.
+
+Y en el capítulo 6 fue film total, siento que sería una experiencia larga pero me llama mucho la atención el que tan diferentes serían los resultados del mismo guión hecho por seis directores distintos, me recuerda un poco a lo que estamos haciendo ya que nos dan los mismo elementos pero nosotros como grupo lo adaptamos a nuestra manera.
+
